@@ -1,4 +1,4 @@
-<h1>Hi, I'm Laurianne! <br/><a href="https://github.com/Lapollon1">Identity and Access Management enthusiast</a>, <a href="[https://www.linkedin.com/in/laurianne-apollon/]">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/ApollonLauri">YouTuber</a></h1>
+<h1>Hi, I'm Laurianne! <br/><a href="[https://www.linkedin.com/in/laurianne-apollon/]">Cybersecurity Professional</a>,<a href="https://github.com/Lapollon1">Identity and Access Management enthusiast</a>, <a href="https://www.youtube.com/c/ApollonLauri">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 

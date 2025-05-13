@@ -1,3 +1,4 @@
+
 <h1>Hi, I'm Laurianne! 
   <br/><a href="[https://www.linkedin.com/in/laurianne-apollon/]">Cybersecurity Professional</a>,<a href="https://github.com/Lapollon1">Identity and Access Management enthusiast</a>, <a href="https://www.youtube.com/c/ApollonLauri">YouTuber</a></h1>
 
@@ -75,7 +76,13 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Certificates</h2>
-- [Google Cybersecurity Certificate]
+- [Google Cybersecurity Professional Certificate]
+- [Google IT Support Professional Certificate]
+- [Google Data Analytics Professional Certificate]
+- [CompTIA Project +]
+- [CompTIA Cloud Essentials]
+- [CompTIA IT Fundamentals]
+- [AWS Cloud Practioner]
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tutorial: Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
